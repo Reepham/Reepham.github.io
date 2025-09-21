@@ -26495,7 +26495,7 @@ case 4:o=b
 s=5
 return A.N(A.awr(p),$async$Hg)
 case 5:n=b
-m=A.aL2(B.Kg,A.c([A.auk(new A.atu(o),t.X_),A.auk(new A.atv("http://traveldiary.timohann.de",n),t.tt),A.auk(new A.atw("http://traveldiary.timohann.de"),t.kZ)],t.Ds))
+m=A.aL2(B.Kg,A.c([A.auk(new A.atu(o),t.X_),A.auk(new A.atv("https://traveldiary.timohann.de",n),t.tt),A.auk(new A.atw("https://traveldiary.timohann.de"),t.kZ)],t.Ds))
 if($.a1==null)A.aBW()
 l=$.a1
 l.toString
